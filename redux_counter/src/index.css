@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+button {
+  margin: 0.5%;
+}
+
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  margin: 2%;
+  width: 10vw;
+  text-align: center;
+}
+
+.button-div {
+  display: flex;
+  justify-content: space-evenly;
+}
